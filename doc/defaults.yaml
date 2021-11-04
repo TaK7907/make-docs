@@ -1,0 +1,16 @@
+from: markdown
+to: html
+
+output-file: doc/test.html
+
+input-files:
+- doc/00-introduction.md
+- doc/01-chapter1.md
+
+metadata:
+  title: pandocで複数markdownファイルから文書生成
+  author:
+  - tak7907
+
+table-of-contents: true
+standalone: true

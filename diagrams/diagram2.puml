@@ -1,0 +1,8 @@
+@startuml "diagram2"
+
+participant operator
+participant system
+
+operator -> system
+
+@enduml
