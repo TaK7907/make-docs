@@ -455,3 +455,4 @@ $RECYCLE.BIN/
 
 doc/*.html
 img/*
+!img/*.svg
